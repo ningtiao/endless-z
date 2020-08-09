@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm YangJiaXin
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endless-z&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endless-z)](https://github.com/anuraghazra/github-readme-stats)
 
 一线前端开发 React、Vue、Taro、微信小程序
-
+<!--&theme=radical-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
