@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm YangJiaXin
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endless-z&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endless-z&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 一线前端开发 React、Vue、Taro、微信小程序
 
